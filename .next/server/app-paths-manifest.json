@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/generate/categories/route": "app/api/generate/categories/route.js",
+  "/api/generate/content-strategy/route": "app/api/generate/content-strategy/route.js",
+  "/api/generate/identity/route": "app/api/generate/identity/route.js",
+  "/api/generate/names/route": "app/api/generate/names/route.js",
+  "/page": "app/page.js",
+  "/api/generate/success-pack/route": "app/api/generate/success-pack/route.js"
+}
